@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/yash_mehta/static/css/main.e14483a5.css",
+    "main.js": "/yash_mehta/static/js/main.c2e05cee.js",
+    "static/media/portfolio.png": "/yash_mehta/static/media/portfolio.4fa22796860bb82ccd25.png",
+    "static/media/libraries.png": "/yash_mehta/static/media/libraries.580665e1c4954a43753d.png",
+    "static/media/macos.png": "/yash_mehta/static/media/macos.6b4e1f5539afe597853e.png",
+    "static/media/space_invaders.png": "/yash_mehta/static/media/space_invaders.1f4b4025cee74e36e0e7.png",
+    "static/media/databases.png": "/yash_mehta/static/media/databases.e13dae9145b05603b2f2.png",
+    "static/media/yruru.png": "/yash_mehta/static/media/yruru.b9152309d00748420de6.png",
+    "static/media/social_tictactoe.png": "/yash_mehta/static/media/social_tictactoe.d9f97e50ef3857b1ac8d.png",
+    "static/media/react.png": "/yash_mehta/static/media/react.aeefaa57cea4d4637774.png",
+    "static/media/home_image3.jpg": "/yash_mehta/static/media/home_image3.71783ce9e97ebfdbe1cb.jpg",
+    "static/media/css.png": "/yash_mehta/static/media/css.3dbca445d19f611a98b5.png",
+    "static/media/languages.png": "/yash_mehta/static/media/languages.61d4359ae7a0b8b2842a.png",
+    "static/media/tailwind.png": "/yash_mehta/static/media/tailwind.9c2e5bcf4f97d73e438e.png",
+    "static/media/chess.png": "/yash_mehta/static/media/chess.7bc6b7a3378c5198e570.png",
+    "static/media/javascript.png": "/yash_mehta/static/media/javascript.d3cff51bffb448d0ff2f.png",
+    "static/media/django.png": "/yash_mehta/static/media/django.4fcd72078ea79f707e88.png",
+    "static/media/python.png": "/yash_mehta/static/media/python.02554a7413e6d009c442.png",
+    "index.html": "/yash_mehta/index.html",
+    "main.e14483a5.css.map": "/yash_mehta/static/css/main.e14483a5.css.map",
+    "main.c2e05cee.js.map": "/yash_mehta/static/js/main.c2e05cee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e14483a5.css",
+    "static/js/main.c2e05cee.js"
+  ]
+}
