@@ -14,7 +14,7 @@ const Social = () => {
                 LinkedIn <FaLinkedin size={30} />
                  </>
             ),
-            href: 'https://linkedin.com',
+            href: 'https://www.linkedin.com/in/yash-mehta-70b959256/',
             style: 'rounded-tr-md'
         },
         {
@@ -24,7 +24,7 @@ const Social = () => {
                 Github <FaGithub size={30} />
                 </>
             ),
-            href: 'https://github.com'
+            href: 'https://github.com/Devagio'
         },
         {
             id: 3,
@@ -33,7 +33,7 @@ const Social = () => {
                 Mail <HiOutlineMail size={30} />
                 </>
             ),
-            href: 'mailto:foo@gmail.com'
+            href: 'mailto:yashovardhanmehta@gmail.com'
         },
         {
             id: 4,

@@ -16,10 +16,15 @@ const Home = () => {
                     I'm a Computational Astrophysicist
                 </h2>
                 <p className='text-gray-500 py-4 max-w-md'>
-                    Lorem ipsum dolor sit amet consectetur adipisicing 
-                    elit. Molestiae velit quo eligendi dolor, similique 
-                    minus suscipit non tempore doloremque eius voluptates 
-                    sequi pariatur rerum modi recusandae.
+                    I create software, run simulations, analyse data, 
+                    construct APIs, and much more, in humankind's pursuit of
+                    better understanding the universe around us. 
+                </p>
+
+                <p className='text-gray-500 pb-4 max-w-md'>
+                    While there 
+                    is a significant overlap, this website aims to showcase
+                    my computer skills strictly outside astrophysics.
                 </p>
 
                 <div>
@@ -37,7 +42,7 @@ const Home = () => {
 
             <div>
                 <img src={home_image} alt="my profile" 
-                className='rounded-2xl mx-auto w-2/3 md:w-full' />
+                className='my-4 rounded-2xl mx-auto w-2/3 md:w-full' />
             </div>
         </div>
     </div>
