@@ -22,9 +22,9 @@ const Home = () => {
                 </p>
 
                 <p className='text-gray-500 pb-4 max-w-md'>
-                    While there 
-                    is a significant overlap, this website aims to showcase
-                    my computer skills strictly outside astrophysics.
+                    While there is significant overlap, I made this 
+                    website to showcase my computer skills strictly outside 
+                    astrophysics.
                 </p>
 
                 <div>
@@ -32,7 +32,7 @@ const Home = () => {
                      text-white w-fit px-6 py-3 my-2 flex items-center 
                      rounded-md bg-gradient-to-r from-cyan-500
                       to-blue-500 cursor-pointer'>
-                        Portfolio
+                        Projects
                         <span className='group-hover:rotate-90 duration-300'>
                             <MdOutlineKeyboardArrowRight size={25} className='ml-1' />
                         </span>

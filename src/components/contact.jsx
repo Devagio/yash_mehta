@@ -9,7 +9,7 @@ const Contact = () => {
             <div className='pb-8 pt-16'>
                 <p className='text-4xl font-bold inline border-b-4
                  border-gray-500'>Contact</p>
-                <p className='py-6'>Submit the form below to get in touch.</p>
+                <p className='py-6'>My inbox is always open. Whether you have an opportunity for me, or just want to say hi, I'll do my best to get back to you!</p>
             </div>
 
             <div className='flex justify-center items-center'>

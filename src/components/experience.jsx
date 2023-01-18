@@ -97,8 +97,8 @@ const Experience = () => {
         justify-center w-full h-full text-white'>
             <div className='pt-16'>
                 <p className='text-4xl font-bold border-b-4
-                 border-gray-500 p-2 inline'>Experience</p>
-                <p className='py-6'>These are some of the technologies I am fluent in.</p>
+                 border-gray-500 p-2 inline'>Technologies</p>
+                <p className='py-6'>Here are some of the technologies I have used extensively, and am fluent in.</p>
             </div>
 
             <div className='w-full grid grid-cols-2 sm:grid-cols-4 gap-8 
