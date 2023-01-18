@@ -14,8 +14,8 @@ const About = () => {
               Hello! My name is Yash and I enjoy creating things that live
               on the internet. My interest in web development started back
               in 2020 when I decided to share a blogpost on Rubik's cubes,
-              that ended up as a full-fledged website. I went on to learn
-              all things coding, and even got to the top rank at the
+              that eventually ended up as a full-fledged website. I went on 
+              to learn all things coding, and even got to the top rank at the
               competitive coding website Codewars.
             </p>
             <br />
@@ -23,7 +23,7 @@ const About = () => {
                 Fast-forward to today, and I've had the honor of
                 graduating with distinction from the prestigious Indian
                 Institute of Science in Computational Astrophysics, and
-                the privilege of working a spectrum of web development, data
+                the privilege of working on a spectrum of web development, data
                 science, and machine learning projects in the process. My
                 primary language of development is python, and I am always
                 excited to learn more!
